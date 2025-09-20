@@ -60,7 +60,7 @@ const SpecialOffers = () => (
               <h4 className="text-white font-bold mb-2">Herbal Glow Facials</h4>
               <p className="text-gray-400 text-sm mb-2">Traditional sandalwood & turmeric</p>
               <p className="text-amber-400 font-bold">
-                <span className="line-through text-gray-500">$89</span> $45
+                <span className="line-through text-gray-500">₹2,000</span> ₹1,200
               </p>
             </div>
             
@@ -69,7 +69,7 @@ const SpecialOffers = () => (
               <h4 className="text-white font-bold mb-2">Ayurvedic Massage</h4>
               <p className="text-gray-400 text-sm mb-2">Ancient healing oil therapy</p>
               <p className="text-amber-400 font-bold">
-                <span className="line-through text-gray-500">$125</span> $63
+                <span className="line-through text-gray-500">₹2,500</span> ₹1,500
               </p>
             </div>
             
@@ -78,7 +78,7 @@ const SpecialOffers = () => (
               <h4 className="text-white font-bold mb-2">Bridal Makeup</h4>
               <p className="text-gray-400 text-sm mb-2">Regal transformations</p>
               <p className="text-amber-400 font-bold">
-                <span className="line-through text-gray-500">$150</span> $75
+                <span className="line-through text-gray-500">₹15,000</span> ₹12,000
               </p>
             </div>
           </div>

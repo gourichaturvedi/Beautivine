@@ -63,18 +63,18 @@ const Testimonials = () => (
       
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
         <TestimonialCard
-          content="Beautivine transformed my entire approach to self-care. The Ayurvedic treatments are genuinely divine – I feel like I've discovered my inner goddess. The sacred atmosphere and expert care make every visit a spiritual journey."
+          content="Beautivine gave me the most amazing bridal makeover! The team understood exactly what I wanted and made me feel like a princess on my wedding day. Their attention to detail and use of premium products is truly exceptional."
           author="Priya Sharma"
-          location="Mumbai, India"
-          image="https://images.unsplash.com/photo-1494790108755-2616b612b1e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
-          emoji="🌸"
+          location="Mumbai, Maharashtra"
+          image="https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+          emoji="👰"
         />
         
         <TestimonialCard
-          content="The bridal package at Beautivine was absolutely magical. They honored traditional rituals while giving me a modern, luxurious experience. I felt like a divine goddess on my wedding day – truly the divine touch of beauty!"
-          author="Aria Patel"
-          location="London, UK"
-          image="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+          content="I've been a regular client for over a year now. The hair treatments here are outstanding, and my hair has never looked healthier. Shivani is an amazing stylist who really knows her craft. Highly recommend!"
+          author="Neha Gupta"
+          location="Delhi, India"
+          image="https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
           emoji="✨"
         />
       </div>

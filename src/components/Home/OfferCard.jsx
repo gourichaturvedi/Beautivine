@@ -31,7 +31,7 @@ const OfferCard = () => (
               Call Us:
             </h3>
             <p className="text-gray-700 font-ui text-sm">
-              +1 323-234-8682
+              +91 9090343490
             </p>
           </div>
         </div>
